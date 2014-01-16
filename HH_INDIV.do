@@ -10,3 +10,5 @@ collapse (max) hhmembercount, by(hhid)
 tab hhmembercount 
 
 save "R:\Project\EPAR\Nigeria LSMS\Merged data\HH_INDIV_Collapsed_HH.dta", replace
+
+more edits from Jaron 
